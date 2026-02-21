@@ -1,6 +1,6 @@
 # Minishell: POSIX-Compliant UNIX Shell Architecture in C
 
-> **⚠️ Academic Integrity Disclaimer:** > The full source code for this project is kept strictly private to comply with the academic integrity and anti-plagiarism policies of my engineering school. This repository serves as a technical showcase and architectural overview of the project.
+> **⚠️ Academic Integrity Disclaimer:** The full source code for this project is kept strictly private to comply with the academic integrity and anti-plagiarism policies of my engineering school. This repository serves as a technical showcase and architectural overview of the project.
 
 ## Overview
 Developed a fully functional, POSIX-compliant command-line interpreter from scratch in **C**. This project replicates the core behavior of standard UNIX shells (like `bash` or `sh`), handling complex command lines, pipes, redirections, and process execution.
